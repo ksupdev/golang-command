@@ -10,7 +10,7 @@ which go
 # remove go
 sudo rm -rf /usr/local/go
 
-# go to link https://go.dev/dl/ and download what version do you want
+# Visit the link https://go.dev/dl/ and choose the version you want to download.
 
 # check version after install
 go version
